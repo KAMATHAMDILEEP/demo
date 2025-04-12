@@ -8,7 +8,7 @@
 
 <body class="bodyStyle">
 
-	<div id="header" class="mainHeader" >
+	<div id="header" class="mainHeader" bgcolor="black">
 		<hr>
 		<div class="center">bluestar caf&eacute;</div>
 	</div>
