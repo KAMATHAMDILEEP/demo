@@ -82,7 +82,7 @@
 		</div>
 			<table>
 				<tr>
-					<td><img src="images/myPhoto_12_5_2024_8_50_26_PM.jpg" height=auto width="400"></td>
+					<td><img src="images/bluestar.jpg" height=auto width="400"></td>
 					<td><p>blue star and bhavani uses to love since 2022 but in between them hassena came in 2024 they 3 started this bluestar cafe near cbit</p></td>
 				</tr>
 			</table>
