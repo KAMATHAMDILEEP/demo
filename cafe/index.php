@@ -96,7 +96,7 @@
 		</div>
 		<table>
 			<tr>
-				<td><img src="images/Coffee-Shop.jpg" height=auto width="120"></td>
+				<td><img src="images/bluestarlogo.jpeg" height=auto width="120"></td>
 			</tr>
 		</table>
 		<div><p>123 Any Street<br>Any Town, USA<br><br>Tel: +1-800-555-0193</p></div>
